@@ -1,0 +1,14 @@
+﻿@model Employee
+
+<form method="post"> 
+    <label>Name:</label>
+    <input type="text" asp-for="Name" required/>
+    <label>Surname:</label>
+    <input type="text" asp-for="Surname" required />
+    <label>Email:</label>
+    <input type="text" asp-for="Email" required />
+    <label>Salary:</label>
+    <input type="number" asp-for="Salary" required min="1"/>
+    <input type="submit"  />
+
+</form>

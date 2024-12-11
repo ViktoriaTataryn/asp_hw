@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Employee>
+
+<a asp-action="AddEmp">Add new employee</a>
+<br />
+<a asp-action="GetManager">View all managers</a>
+<br />
+<br />
+<h1>Employees</h1>
+<br />
+<table class="table table-bordered align-content-center">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Email</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td> @item.Name</td>
+                <td> @item.Surname</td>
+                <td> @item.Email</td>
+                <td> @item.Salary$</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

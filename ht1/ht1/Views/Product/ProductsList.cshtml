@@ -1,0 +1,16 @@
+﻿@model Product
+@{
+    ViewData["Tittle"] = "ProductsList";
+}
+<div>
+    <p>Name: @Model.Name</p>
+    <p>Price: @Model.Price</p>
+    <p>Description: @ViewBag.Description</p>
+    <p>Date: @ViewData["CreatedDate"]</p>
+    <br />
+    <p>Category name: @ViewBag.Category.Name</p>
+    <p>Sale: @ViewBag.Category.Sale%</p>
+    <p>Category description: @ViewBag.Category.Description</p>
+   
+</div>
+

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lesASP\\pract5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E517179-770C-4D5C-868D-A4BB6A4E3A78}|pract5\\pract5.csproj|d:\\lesasp\\pract5\\pract5\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E517179-770C-4D5C-868D-A4BB6A4E3A78}|pract5\\pract5.csproj|solutionrelative:pract5\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E517179-770C-4D5C-868D-A4BB6A4E3A78}|pract5\\pract5.csproj|d:\\lesasp\\pract5\\pract5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E517179-770C-4D5C-868D-A4BB6A4E3A78}|pract5\\pract5.csproj|solutionrelative:pract5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\lesASP\\pract5\\pract5\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "pract5\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\lesASP\\pract5\\pract5\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "pract5\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:40:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\lesASP\\pract5\\pract5\\Models\\User.cs",
+              "RelativeDocumentMoniker": "pract5\\Models\\User.cs",
+              "ToolTip": "D:\\lesASP\\pract5\\pract5\\Models\\User.cs*",
+              "RelativeToolTip": "pract5\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:38:53.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

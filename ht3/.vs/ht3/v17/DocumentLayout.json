@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\htAsp\\asp_hw\\ht3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\data\\bookdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\data\\bookdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\views\\book\\getbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\views\\book\\getbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|d:\\htasp\\asp_hw\\ht3\\ht3\\ht3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB69B8E8-7C44-4B53-969F-4B3541579FEC}|ht3\\ht3.csproj|solutionrelative:ht3\\ht3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Program.cs",
+              "RelativeDocumentMoniker": "ht3\\Program.cs",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Program.cs",
+              "RelativeToolTip": "ht3\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:10:47.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateBook.cshtml",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeDocumentMoniker": "ht3\\Views\\Book\\UpdateBook.cshtml",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeToolTip": "ht3\\Views\\Book\\UpdateBook.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T14:10:35.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteBook.cshtml",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\DeleteBook.cshtml",
+              "RelativeDocumentMoniker": "ht3\\Views\\Book\\DeleteBook.cshtml",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\DeleteBook.cshtml",
+              "RelativeToolTip": "ht3\\Views\\Book\\DeleteBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T14:09:51.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "ht3\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "ht3\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T14:08:58.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetBook.cshtml",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\GetBook.cshtml",
+              "RelativeDocumentMoniker": "ht3\\Views\\Book\\GetBook.cshtml",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Views\\Book\\GetBook.cshtml",
+              "RelativeToolTip": "ht3\\Views\\Book\\GetBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T14:08:23.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ht3\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ht3\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:06:42.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDatabase.cs",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Data\\BookDatabase.cs",
+              "RelativeDocumentMoniker": "ht3\\Data\\BookDatabase.cs",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Data\\BookDatabase.cs",
+              "RelativeToolTip": "ht3\\Data\\BookDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:05:10.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Data\\IDatabase.cs",
+              "RelativeDocumentMoniker": "ht3\\Data\\IDatabase.cs",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Data\\IDatabase.cs",
+              "RelativeToolTip": "ht3\\Data\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:04:16.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ht3\\Models\\Book.cs",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Models\\Book.cs",
+              "RelativeToolTip": "ht3\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:03:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "ht3\\Models\\Author.cs",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\Models\\Author.cs",
+              "RelativeToolTip": "ht3\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:03:04.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ht3",
+              "DocumentMoniker": "D:\\htAsp\\asp_hw\\ht3\\ht3\\ht3.csproj",
+              "RelativeDocumentMoniker": "ht3\\ht3.csproj",
+              "ToolTip": "D:\\htAsp\\asp_hw\\ht3\\ht3\\ht3.csproj",
+              "RelativeToolTip": "ht3\\ht3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T14:01:41.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

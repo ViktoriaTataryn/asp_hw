@@ -1,0 +1,28 @@
+﻿@model Book
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <label>Title: </label>
+    <input type="text" name="title" asp-for="Title" />
+    <br /><br />
+ 
+    <label>Author firstName:</label>
+    <input type="text" name="Author.FirstName" value="@Model.Author.FirstName" />
+    <br /><br />
+
+    <label>Author lastName:</label>
+    <input type="text" name="Author.LastName" value="@Model.Author.LastName" />
+    <br /><br />
+
+    <label>Price: </label>
+    <input type="number" name="price" asp-for="Price" min="1" />
+    <br /><br />
+
+    <label>Number of pages: </label>
+    <input type="number" name="numOfPages" asp-for="NumOfPages" min="1" />
+    <br /><br />
+
+    <input class="btn btn-warning" type="submit" value="Edit" />
+</form>
+<br />
+<a asp-action="GetBook">Go back</a>
+
